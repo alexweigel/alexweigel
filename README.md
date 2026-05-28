@@ -1,6 +1,6 @@
 # Alexander Weigel
 
-I build native macOS tools with a focus on thoughtful interfaces, local-first software, and practical reliability.
+I build practical things that solve problems.
 
 Currently working on [Freesby](https://github.com/alexweigel/Freesby), an open-source macOS disk-space explorer for understanding and reviewing local storage.
 
