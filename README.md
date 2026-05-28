@@ -6,8 +6,8 @@ Currently working on [Freesby](https://github.com/alexweigel/Freesby), an open-s
 
 ## Interests
 
+- The intersection of IT and human needs
 - SwiftUI and native macOS apps
-- Human and computer interactions
 - Local-first utilities
 - Calm, practical developer and productivity tools
 
