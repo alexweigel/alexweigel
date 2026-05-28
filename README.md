@@ -1,6 +1,6 @@
 # Alexander Weigel
 
-I build practical things that solve problems.
+I solve problems via IT.
 
 Currently working on [Freesby](https://github.com/alexweigel/Freesby), an open-source macOS disk-space explorer for understanding and reviewing local storage.
 
